@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Raymond Sustainable Fashion</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            color: #2C3E50;
+            text-align: center;
+        }
+
+        .sustainability-section {
+            margin: 20px 0;
+        }
+
+        .water-saved {
+            font-size: 24px;
+            color: #27AE60;
+            text-align: center;
+        }
+
+        .details {
+            font-size: 18px;
+            color: #34495E;
+            margin: 20px 0;
+            text-align: center;
+        }
+
+        .fact {
+            padding: 10px;
+            background-color: #ecf0f1;
+            border-left: 5px solid #2980B9;
+            margin-bottom: 10px;
+        }
+
+        .footer {
+            text-align: center;
+            font-size: 14px;
+            color: #95A5A6;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Raymond's Commitment to Sustainability</h1>
+        
+        <div class="sustainability-section">
+            <p class="water-saved">This product saved <strong>450 liters</strong> of water during production!</p>
+            <p class="details">By choosing this garment, you're helping reduce water consumption and supporting sustainable fashion.</p>
+        </div>
+
+        <div class="sustainability-section">
+            <h2>More Sustainability Highlights:</h2>
+            <div class="fact">Made from 100% organic cotton, free from harmful chemicals.</div>
+            <div class="fact">Produced in eco-friendly factories with reduced carbon emissions.</div>
+            <div class="fact">Packaged in recyclable materials to minimize waste.</div>
+            <div class="fact">Raymond's eco-conscious dyeing process reduces water and energy use by 30%.</div>
+        </div>
+
+        <div class="footer">
+            <p>Thank you for making sustainable fashion choices with Raymond!</p>
+            <p>#SustainableFashion #RaymondGreen</p>
+        </div>
+    </div>
+
+</body>
+</html>
